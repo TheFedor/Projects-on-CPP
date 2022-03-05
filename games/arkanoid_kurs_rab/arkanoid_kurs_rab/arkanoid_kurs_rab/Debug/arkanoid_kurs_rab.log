@@ -1,0 +1,180 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(584,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(589,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(605,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(606,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(611,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(612,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(617,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(618,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(623,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(624,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(629,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(630,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(635,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(636,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(654,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(654,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(659,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(659,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(789,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(793,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(811,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(812,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(816,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(817,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(821,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(822,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(826,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(827,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(831,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(832,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(836,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(837,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(857,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(857,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(861,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(861,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(974,86): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(974,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(975,48): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(976,48): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(987,86): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(987,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(988,48): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(989,48): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1132,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1141,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1150,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1159,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1177,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1186,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1195,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1204,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1213,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1227,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1236,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1245,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1254,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1272,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1281,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1290,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1299,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1308,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1529,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1529,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1560,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1564,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1576,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1577,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1581,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1582,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1586,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1587,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1591,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1592,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1596,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1597,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1601,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1602,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1616,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1616,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1620,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1620,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1857,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1860,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1868,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1871,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1882,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1885,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1893,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\arkanoid_kurs_rab\Source.cpp(1896,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  arkanoid_kurs_rab.vcxproj -> C:\Users\Admin\Desktop\arkanoid_kurs_rab\arkanoid_kurs_rab\Debug\arkanoid_kurs_rab.exe
